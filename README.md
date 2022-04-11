@@ -8,7 +8,7 @@ In this repo you will find HTML and CSS code for a very basic template of 404 er
 #
 
 #### Preview (sorry for trash quality)- 
-![image](https://user-images.githubusercontent.com/88544216/162728337-d6b381e6-db8f-49e5-beea-b373ab6c790c.png)
+![preview-image](https://user-images.githubusercontent.com/88544216/162730386-f2661b94-cf1c-4cdb-9e1a-04154f1ef6b9.png)
 
 #
 
