@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/88544216/162729511-83cf7435-24f2-4fbf-b65d-7c142ee827a1.png)
+
+
 ### Hey!
 
 In this repo you will find HTML and CSS code for a very basic template of 404 error page. Make sure to star ⭐ this repo and follow me for more templates and coding resources.
