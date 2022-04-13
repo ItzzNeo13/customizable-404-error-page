@@ -19,3 +19,7 @@ In this repo you will find HTML and CSS code for a very basic template of 404 er
 2] Customize the code according to need.
 
 #### If you face any problems, feel free to ask me about it on my Discord Server. Link [here](https://discord.gg/VbbnMzV9RZ)
+
+-------
+
+ <a href="https://github.com/ItzzNeo13" alt="https://github.com/ItzzNeo13"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=ItzzNeo13&color=000000"></a>
